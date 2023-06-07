@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-page {
+  background-color: #f1f5f8;
+  padding: 100px;
+}
+.faqs-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: none;
+  padding: 35px;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #cb8805;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
